@@ -15,7 +15,7 @@
 
 ## 许可说明
 - 本项目生成的字体包含来自 Minecraft 相关社区的资源及 GNU Unifont。
-- 引用资源请遵循原作者的许可协议（https://github.com/jia6261/minecraft-ten-unicode/blob/master/LICENSE）。
+- 引用资源请遵循原作者的许可协议（https://github.com/jia6261/minecraft-ten-unicode/blob/master/LICENSE
 
 ## 预览
 ![Font Preview](font_test_final.png)
